@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name":"ROI Medical",
+    "occupation":"",
+    "description":"We help medical professionals get high ROI by implementing online digital marketing",
+    "image":"profilepic.jpg",
+    "bio":"We are NJ based marketing professionals. From Google & Facebook Ads to custom landing pages, we make sure you receive the highest return on marketing investment you’ve ever had.",
+    "contactmessage":"Feel free to contact us",
+    "email": "ba.dejlova@gmail.com",
+    "phone": "516-234-4814",
+    "address":{
+      "city":"Leonia",
+      "state":"NJ",
+      "zip": "07605"
+    },
+    "website": "http://bary-blog.vercel.app",
+    "resumedownload":"/webdev.doc",
+ 
+   "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/Barusha",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+ 
+    "education":[
+    
+      {
+        "school":"Duke University",
+        "degree":"Digital Marketing Certificate",
+        "graduated":"Aug 2019",
+        "description":"Jedna z nejznámějších škol v celé USA. Kde jinde zjistit, zda mé znalosti z marketingu jsou stále aktuální?"
+      },
+      {
+        "school":"Baruch College",
+        "degree":"Bachelor in Finance",
+        "graduated":"May 2018",
+        "description":"Jedna z lepších NYC škol zaměřená na business. Naučila mě jak se starat o finance."
+      }
+    ],
+    "work":[
+      {
+        "company":"Appmine",
+        "title":"Spoluzakladatelka",
+        "years":"Srpen 2020 - Současnost",
+        "description":"Pomáhám rozjet kopii české vývojové společnosti v USA."
+      },
+      {
+        "company":"WOMS LLC",
+        "title":"Hlava E-commerce ",
+        "years":"Srpen 2019 - Duben 2020",
+        "description":"Během tohoto projektu jsem mela na starosti rozjezd obchodu, marketing a dropshipping. Projekt selhal kvůli covidu."
+      },
+      {
+        "company":"Clinical Insight",
+        "title":"SEO Analyst",
+        "years":"Květen 2019 - Listopad 2019",
+        "description":"Práce, kde jsem se soustředila na SEO. 3/4 klientů, kteří mi byly přiděleny jsem vyhoupla na první stránku google."
+      },
+      {
+        "company":"Český Avril Lavigne Ecommerce",
+        "title":"Zakladatelka",
+        "years":"Květen 2010 - Prosinec 2016",
+        "description":"Po dobu 6i let jsem vedla obchod, který prodával oblečení Avril Lavigne. Obchod měl přes 10 000 likes a byl v BRAVO magazínu."
+      }
+
+    ]
+    
+  },
+  
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"We are a digital marketing agency serving medical experts around the world. We generate our clients a consistent stream of new online revenue month over month. We build websites, landing pages, SEO and PPC campaigns, and much more. If you have a business that could benefit in any way from medical marketing - we are here for you.",
+        "user":"About Us"
+      }
+    ]
+  }
+}
