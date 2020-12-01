@@ -1,0 +1,55 @@
+{
+  "main": {
+    "name":"ROI Medical",
+    "occupation":"",
+    "description":"We help medical professionals get high ROI by implementing online digital marketing",
+    "image":"profilepic.jpg",
+    "bio":"We are a NJ based marketing professionals. From Google & Facebook Ads to custom landing pages, we make sure you receive the highest return on marketing investment you’ve ever had.",
+    "contactmessage":"Feel free to contact us",
+    "email": "ba.dejlova@gmail.com",
+    "phone": "516-234-4814",
+    "address":{
+      "city":"Leonia",
+      "state":"NJ",
+      "zip": "07605"
+    },
+    "website": "http://bary-blog.vercel.app",
+    "resumedownload":"/Roimedical.docx",
+ 
+   "social":[
+     
+    ]
+  },
+  "resume":{
+ 
+    "education":[
+    
+      {
+        "school":"Baruch College",
+        "degree":"Bachelor in Finance",
+        "graduated":"May 2018",
+        "description":"Jedna z lepších NYC škol zaměřená na business. Naučila mě jak se starat o finance."
+      }
+    ],
+    "work":[
+      
+      {
+        "company":"Český Avril Lavigne Ecommerce",
+        "title":"Zakladatelka",
+        "years":"Květen 2010 - Prosinec 2016",
+        "description":"Po dobu 6i let jsem vedla obchod, který prodával oblečení Avril Lavigne. Obchod měl přes 10 000 likes a byl v BRAVO magazínu."
+      }
+
+    ]
+    
+  },
+  
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"We are a digital marketing agency serving medical experts around the world. We set up Google and FaceBook Ads and generate our clients a consistent stream of monthly revenue. Are company is very consistent and is bound to get you a higher ROI. And not only that, we also build websites, landing pages, do SEO and much more. We can Multiply your income by up to 5 times! We have helped companies before and we are sure to help you too. Our company is international and will help you wherever you are.  If you're looking for Ads to boost you income stream you're at the right place.",
+        "user":"About Us"
+      }
+    ]
+  }
+}
