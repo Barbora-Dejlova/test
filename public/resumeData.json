@@ -1,20 +1,23 @@
 {
   "main": {
-    "name":"ROI Medical",
+    "name":"ROI MEDICAL",
     "occupation":"",
     "description":"We help medical professionals get high ROI by implementing online digital marketing",
     "image":"profilepic.jpg",
     "bio":"We are a NJ based marketing professionals. From Google & Facebook Ads to custom landing pages, we make sure you receive the highest return on marketing investment you’ve ever had.",
+    "bio2":"Easily said, we set up Google paid ads (PPC) and Facebook Ads, so whenever somebody searches for particular medical service your name will come up. This will bring you new potential customers.",
+    "bio3":"We mainly focus on Google and Facebook Paid Ads. However, we also do Reputation Management, we create full websites using the latest technology.",
     "contactmessage":"Feel free to contact us",
-    "email": "ba.dejlova@gmail.com",
-    "phone": "516-234-4814",
+    "email": "barbora@roimedical.net",
+    "phone": "(+1) 516-234-4814",
     "address":{
       "city":"Leonia",
+      "street": "Warwick ln",
       "state":"NJ",
       "zip": "07605"
     },
     "website": "http://bary-blog.vercel.app",
-    "resumedownload":"https://roimedical.net/Roimedical.docx",
+    "resumedownload":"https://drive.google.com/file/d/1v9IsqKWRiYyUhUGOFvIhCrhZ9R59H9-a/view?usp=sharing",
  
    "social":[
      
@@ -47,9 +50,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"We are a digital marketing agency serving medical experts around the world. We set up Google and FaceBook Ads and generate our clients a consistent stream of monthly revenue. Our company is very consistent and is bound to get you a higher ROI. And not only that, we also build websites, landing pages, do SEO and much more. We have helped companies before and we are sure to help you too. Our company is international and will help you wherever you are.  If you're looking for Ads to boost you income stream you're at the right place.",
-        "user":"About Us"
+       
+        "text":"We strongly believe medical professionals dont need to have social media accounts in order to be successfull. How many patients read practice's FB posts? How many patients follow practice's social media accounts? Not many. We believe medical professionals need to be on first Google page in order to attract new clients and that's why we do paid ads only.",
+        "user":"Why to choose us" 
       }
     ]
   }
 }
+
