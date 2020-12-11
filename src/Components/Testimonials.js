@@ -9,6 +9,7 @@ class Testimonials extends Component {
             <q>
             <h2>{testimonials.user}</h2>
                <p>{testimonials.text}</p>
+
             </q>
          </li>
       })
