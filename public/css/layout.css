@@ -654,7 +654,7 @@ call-to-action .button {
 #testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'sans-sarif';
-   content: "->";
+   content: "(:";
 	padding-right: 15px;
 	font-size: 72px;
    line-height: 72px;
