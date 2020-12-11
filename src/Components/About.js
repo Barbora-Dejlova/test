@@ -7,13 +7,15 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
+      var bio2 = this.props.data.bio2;
+      var bio3 = this.props.data.bio3;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      
     }
 
     return (
@@ -23,14 +25,26 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="BD Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>WHAT WE DO</h2>
+            <h2>What we do</h2>
 
             <p>{bio}</p>
+
+            <h2>How we can help you achieve the biggest ROI?</h2>
+
+<p>{bio2}</p>
+
+<h2>What else we can do</h2>
+
+<p>{bio3}</p>
+
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact</h2>
                   <p className="address">
 						   <span>{name}</span><br />
+                     <span>
+						        {street}<br />
+                   </span>
 						   <span>
 						         {city} {state}, {zip}<br />
                    </span>
@@ -38,9 +52,12 @@ class About extends Component {
                      <span>{email}</span>
 					   </p>
                </div>
+
+
+               
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Our certifications</a>
+                     <a href="https://form.123formbuilder.com/5739931/form" className="button"><i className="fa fa-download"></i>Contact form</a>
                   </p>
                </div>
             </div>
@@ -53,3 +70,4 @@ class About extends Component {
 }
 
 export default About;
+
