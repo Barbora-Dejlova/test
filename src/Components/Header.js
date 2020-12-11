@@ -5,9 +5,7 @@ class Header extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var occupation= this.props.data.occupation;
       var description= this.props.data.description;
-      var state= this.props.data.address.state;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -23,12 +21,10 @@ class Header extends Component {
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">What we do</a></li>
-            I
-            <li><a className="smoothscroll" href="#testimonials">ABOUT US</a></li>
-         
-I
-            <li><a href="https://form.123formbuilder.com/5739931/form">Contact Form</a></li>
+            <li><a className="smoothscroll" href="#about">What we do + Contact</a></li>
+            
+            <li><a className="smoothscroll" href="#testimonials">Why Us</a></li>
+      
            
          
          </ul>
@@ -56,3 +52,4 @@ I
 }
 
 export default Header;
+
