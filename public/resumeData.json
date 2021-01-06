@@ -1,26 +1,38 @@
 {
   "main": {
     "name":"ROI MEDICAL",
+    "name2":"Barbora Dejlova",
     "occupation":"",
-    "description":"We help medical professionals get high ROI by implementing online digital marketing",
+    "description":"We help medical professionals get high ROI by implementing online digital marketing. GET FOUND ONLINE",
     "image":"profilepic.jpg",
-    "bio":"We are a NJ based marketing professionals. From Google & Facebook Ads to custom landing pages, we make sure you receive the highest return on marketing investment you’ve ever had.",
-    "bio2":"Easily said, we set up Google paid ads (PPC) and Facebook Ads, so whenever somebody searches for particular medical service your name will come up. This will bring you new potential customers.",
-    "bio3":"We mainly focus on Google and Facebook paid ads (PPC). However, we also do Reputation Management and create full websites using the latest technology.",
-    "contactmessage":"Feel free to contact us",
+    "bio":"A great website that converts visitors into patients is a key piece of a winning practice marketing strategy. But the best medical website in the world is useless if no one ever visits it. Our goal is to bring more patients to your practice by bringing more visitors to your website. We do that through Search Engine Marketing (SEM), and Social Media Marketing (SMM) campaigns.",
+    "bio3":"We specialize in SEO for dentists, orthodontists, and related medical professionals. While others are constantly shifting focus between markets, we are doing one thing – working to provide our medical clients the best rankings possible.",
+    "bio4":"SEM involves creating and managing Pay-Per-Click (PPC) ads that target people specifically searching for the various medical treatments and services you provide. While organic rankings tend to be the best value over time, a Google Ads campaign can bring PPC traffic to your practice website instantly.",
+    "bio5":"SMM is advertising on sites like Facebook. Instead of targeting specific searches, the goal of SMM is to raise general awareness of your dental practice, and introduce local folks to the personality and character of your practice.",
+   "contactmessage":"Feel free to contact us",
     "email": "barbora@roimedical.net",
     "phone": "(+1) 516-234-4814",
     "address":{
       "city":"Leonia",
-      "street": "Warwick ln",
+      "street": "228 Warwick ln",
       "state":"NJ",
       "zip": "07605"
     },
     "website": "http://bary-blog.vercel.app",
     "resumedownload":"https://drive.google.com/file/d/1v9IsqKWRiYyUhUGOFvIhCrhZ9R59H9-a/view?usp=sharing",
  
-   "social":[
-     
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/roimedical.net",
+        "className":"fa fa-facebook"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/barbora-dejlova-252770147/",
+        "className":"fa fa-linkedin"
+      }
     ]
   },
   "resume":{
@@ -51,7 +63,7 @@
     "testimonials":[
       {
        
-        "text":"We make your PPC campaigns make you money. Working with us means providing your business great savings. All our digital marketing and web development packages are being offered at competitive prices. We constantly monitor the success of the campaign and fine tune it, so you can see good ROI. We can GUARANTEE you will make more money than you invest. ",
+        "text":"We only offer our services to one practice/specialty in a geographic region. Other marketing companies will take on several competing practices in the same city, meaning that they are spending at least as much time actively working against you as they are working for you when they are trying to rank your competitors. We are solely focused on making you the top practice in your target market.",
         "user":"Why choose us" 
       }
     ]
