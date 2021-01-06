@@ -10,6 +10,7 @@ class Testimonials extends Component {
             <h2>{testimonials.user}</h2>
                <p>{testimonials.text}</p>
 
+     
             </q>
          </li>
       })
@@ -36,3 +37,4 @@ class Testimonials extends Component {
 }
 
 export default Testimonials;
+
