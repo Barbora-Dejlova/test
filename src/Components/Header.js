@@ -21,11 +21,11 @@ class Header extends Component {
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">What we do + Contact</a></li>
+            <li><a className="smoothscroll" href="#about">What we do</a></li>
             
             <li><a className="smoothscroll" href="#testimonials">Why Us</a></li>
       
-           
+   
          
          </ul>
 
@@ -52,4 +52,6 @@ class Header extends Component {
 }
 
 export default Header;
+
+
 
