@@ -4,11 +4,12 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
+      var name2 = this.props.data.name2;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var bio2 = this.props.data.bio2;
       var bio3 = this.props.data.bio3;
+      var bio4 = this.props.data.bio4;
+      var bio5 = this.props.data.bio5;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -29,11 +30,11 @@ class About extends Component {
 
             <p>{bio}</p>
 
-            <h2>How we can help you achieve the biggest ROI?</h2>
+<p><li>{bio4}</li>
 
-<p>{bio2}</p>
+<li>{bio5}</li></p>
 
-<h2>What else we can do</h2>
+<h2>Who are our clients?</h2>
 
 <p>{bio3}</p>
 
@@ -41,7 +42,7 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact</h2>
                   <p className="address">
-						   <span>{name}</span><br />
+						   <span>{name2}</span><br />
                      <span>
 						        {street}<br />
                    </span>
@@ -70,4 +71,5 @@ class About extends Component {
 }
 
 export default About;
+
 
